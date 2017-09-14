@@ -1,5 +1,5 @@
 {
-  "name": "old_stuff",
+  "name": "old-stuff-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,6 +10,8 @@
   "author": "Abhishek Kulshrestha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
   }
 }
